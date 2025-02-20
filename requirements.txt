@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+PyPDF2
+joblib
+tabula-py
+camelot-py
+xlrd
+scikit-learn
